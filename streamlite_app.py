@@ -8,6 +8,6 @@ streamlit.text("Omega 3 and Blueberry Oat Meal")
 
 streamlit.text("Kale Spinatch")
 
-streamlit.text("White Egg")
+streamlite.text("White Egg")
 
 
